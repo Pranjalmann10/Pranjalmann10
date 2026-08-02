@@ -1,11 +1,15 @@
 <h1 align="center">Hi, I'm Pranjal Mann 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=whoami+%3E+student+%2B+builder;full-stack+today%2C+ML+tomorrow;cybersecurity+at+night%2C+data+on+weekends;shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/xTiTndDWXbBjjrRhne/giphy.gif" width="300" alt="Naruto running" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranjalmann10&label=Profile%20Views&color=2F81F7&style=flat" alt="Profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF7800&center=true&vCenter=true&width=650&lines=whoami+%3E+student+%2B+builder;full-stack+today%2C+ML+tomorrow;cybersecurity+at+night%2C+data+on+weekends;believe+it.+%F0%9F%8D%A5" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pranjalmann10&label=Profile%20Views&color=FF7800&style=flat" alt="Profile views" />
 </p>
 
 <br>
@@ -16,15 +20,21 @@
 │  > A student who refuses to stay in one lane       │
 │                                                    │
 │  pranjal@github ~ % cat current_focus.txt          │
-│  > Full Stack  ██████████████████░░  90%           │
-│  > ML / Cloud  █████████████░░░░░░░  65%           │
-│  > Cybersecurity ██████████░░░░░░░░░  50%           │
-│  > Data Analytics ████████████░░░░░░  60%           │
+│  > Full Stack                                      │
+│  > ML / Cloud                                      │
+│  > Cybersecurity                                   │
+│  > Data Analytics                                  │
 │                                                    │
 │  pranjal@github ~ % echo $STATUS                   │
 │  > Building. Breaking things. Learning fast.       │
 └──────────────────────────────────────────────────┘
 ```
+
+<br>
+
+> *"A person grows up when he's able to overcome hardships. Protection is just an excuse to hide one's weakness."* — Jiraiya
+>
+> Currently living by the ninja way: fail, debug, believe it, repeat. 🍥🦊
 
 <br>
 
@@ -54,15 +64,15 @@ Turning messy data into charts and decisions — cleaning, visualizing, finding 
 </table>
 
 <details>
-<summary>🎲 <b>Not sure what I'm building this month? Click for a random pick.</b></summary>
+<summary>🎲 <b>Not sure what I'm building this month? Summon a random jutsu.</b></summary>
 <br>
 
-| Roll | Domain | What that usually means |
-|:---:|---|---|
-| 1️⃣ | Full Stack | A new web app idea I couldn't leave alone |
-| 2️⃣ | ML / Cloud | A model that works on my machine, deploying it anyway |
-| 3️⃣ | Cybersecurity | A CTF box or a "how does this attack actually work" rabbit hole |
-| 4️⃣ | Data Analytics | A dataset I found interesting and a notebook full of plots |
+| Roll | Jutsu | Domain | What that usually means |
+|:---:|---|---|---|
+| 1️⃣ | 🌀 Rasengan | Full Stack | A new web app idea I couldn't leave alone |
+| 2️⃣ | 🐸 Sage Mode | ML / Cloud | A model that works on my machine, deploying it anyway |
+| 3️⃣ | 👁️ Sharingan | Cybersecurity | A CTF box or a "how does this attack actually work" rabbit hole |
+| 4️⃣ | 📜 Shadow Clone | Data Analytics | A dataset I found interesting and a notebook full of plots |
 
 *(Pick a number. That's roughly the odds of what I'm shipping right now.)*
 
@@ -81,7 +91,7 @@ Turning messy data into charts and decisions — cleaning, visualizing, finding 
 
 <br>
 
-### 🐍 Contribution Snake
+### 🐍 Summoning Jutsu: Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pranjalmann10/Pranjalmann10/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
